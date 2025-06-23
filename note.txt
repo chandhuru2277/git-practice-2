@@ -1,0 +1,10 @@
+topics:
+    1.stage file move to unstage (single file/directory with keep file and without it)
+    2.stage file move to unstage (mlultiple file/directory with keep file and without it)
+    3.move multiple file to the staging area
+    4.clean untacked file/folders (all,spcific )
+
+tools:
+    git log
+    git rm (-f,--cached)
+    git clean (-f,-df)
