@@ -1,1 +1,7 @@
-1.Working with staging area
+Working with staging and commit area
+    1. undo chages by commit in staging area
+    2. undo change by stage in modified area (that file move to untacked with staged changes)
+
+    tools:
+        git diff (--staged)
+        git restore (--staged)
